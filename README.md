@@ -1,12 +1,12 @@
 <h2>Password Generator App</h2>
 Welcome to the Repository. This repo is about a Password Generator app.
 
-<h2>Some Points</h2>
+<h2>Features</h2>
 <ul>
-  <li>Built purely using HTML, CSS, and JS</li>
-  <li>In the game, the player gets the chance to select between the options 'X' or 'O'</li>
-  <li>The player has an option for the New Game button which resets the whole game with just one click</li>
-  <li>A nostalgic retro 8-bit background music is embedded in the website to give the player an awesome gaming experience</li>
+  <li>Password Length Slider: Easily adjust the length of your password.</li>
+  <li>Customizable Options: Choose to include uppercase letters, lowercase letters, symbols, and numbers.</li>
+  <li>Copy Functionality: Quickly copy the generated password with the provided copy icon.</li>
+  <li>Password Strength Indicator: Visualize password strength with color-coded indicators – red, yellow, and green.</li>
 </ul>
 
 <h2>Tech Stack Used</h2>
@@ -16,4 +16,4 @@ Welcome to the Repository. This repo is about a Password Generator app.
 </div>
 
 <h2>Live Link</h2>
-<a href="https://tic-tac-toe-game-zeta-lilac.vercel.app/" target="_blank">Click Here</a>
+<a href="https://password-generator-app-sooty.vercel.app/" target="_blank">Click Here</a>
